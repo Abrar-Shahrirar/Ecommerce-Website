@@ -1,2 +1,2 @@
-# CSE-327-Group-7
+# Ecommerce Website
 We are nothing but We are everything!!!!
